@@ -1,0 +1,22 @@
+
+		                       CHALLO CHALIEN - Customer Invoice                  
+			| Service        : ------------------ |    Ride
+			| Date and Time  : ------------------ |    Mon Aug 15 15:31:43 2022
+			////////////////////////////////////////////////////////////////////
+			| Invoice No.    : ------------------ |     #Cnb59203
+			| Customer Name  : ------------------ |    Mudassir
+			| Driver Name    : ------------------ |    Sadeem Asim
+			| Vehicle Model  : ------------------ |    Toyota Passo
+			| Vehical No.    : ------------------ |    LEM2258
+			| Engine Power   : ------------------ |    1000CC
+			| Distance       : ------------------ |    45
+			| Charges per km : ------------------ |    Rs.30.5
+			| AC Charges     : ------------------ |    Rs.10
+			 ___________________________________________________________________
+
+			| Total Amount   : ------------------ |    Rs.1372.5
+			 ___________________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			////////////////////////////////////////////////////////////////////

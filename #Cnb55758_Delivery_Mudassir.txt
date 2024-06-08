@@ -1,0 +1,21 @@
+
+		                       CHALLO CHALIEN - Customer Invoice                  
+			| Service        : ------------------- |    Delivery
+			| Goods Type     : ------------------- |    Envelop
+			| Date and Time  : ------------------- |    Mon Aug 15 15:31:43 2022
+			////////////////////////////////////////////////////////////////////
+			| Invoice No.    : ------------------- |    #Cnb55758
+			| Customer Name  : ------------------- |    Mudassir
+			| Driver Name    : ------------------- |    Sajawal Ali
+			| Vehicle Model  : ------------------- |    DFSK K01
+			| Vehical No.    : ------------------- |    LEO5789
+			| Distance       : ------------------- |    1500
+			| Charges per km : ------------------- |    Rs.20.4
+			 ___________________________________________________________________
+
+			| Total Amount   : ------------------- |    Rs.30600
+			 ___________________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			////////////////////////////////////////////////////////////////////

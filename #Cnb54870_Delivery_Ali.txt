@@ -1,0 +1,21 @@
+
+		                       CHALLO CHALIEN - Customer Invoice                  
+			| Service        : ------------------- |    Delivery
+			| Goods Type     : ------------------- |    Furniture
+			| Date and Time  : ------------------- |    Mon Aug 15 15:31:43 2022
+			////////////////////////////////////////////////////////////////////
+			| Invoice No.    : ------------------- |    #Cnb54870
+			| Customer Name  : ------------------- |    Ali
+			| Driver Name    : ------------------- |    Mudasir Ali
+			| Vehicle Model  : ------------------- |    JAC X200
+			| Vehical No.    : ------------------- |    LEO5689
+			| Distance       : ------------------- |    540
+			| Charges per km : ------------------- |    Rs.20.4
+			 ___________________________________________________________________
+
+			| Total Amount   : ------------------- |    Rs.11016
+			 ___________________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			////////////////////////////////////////////////////////////////////
